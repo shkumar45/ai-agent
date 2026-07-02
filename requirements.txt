@@ -1,0 +1,3 @@
+https
+google-genai
+dotenv
